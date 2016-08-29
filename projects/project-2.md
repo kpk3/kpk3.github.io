@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/as.png
 title: Kai Archiver
-permalink: projects/archiver
+permalink: projects/vacay
 date: Summer 2016
 labels:
   - C#
