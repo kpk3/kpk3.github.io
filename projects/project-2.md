@@ -1,9 +1,10 @@
 ---
 layout: project
 type: project
+published: true
 image: images/as.png
 title: Kai Archiver
-permalink: projects/vacay
+permalink: projects/archiver
 date: Summer 2016
 labels:
   - C#
@@ -19,5 +20,3 @@ Kai archiver is a project I developed during the summer of 2016. The purpose of 
 Kai archiver is implemented using C# and XML. 
 
 In this project I gained experience using VSTO and programming a Microsoft Add-In. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
