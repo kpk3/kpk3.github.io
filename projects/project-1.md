@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/word.png
 title: Company List Search
-permalink: projects/word
+permalink: projects/micromouse
 date: Summer 2015
 labels:
   - C#
