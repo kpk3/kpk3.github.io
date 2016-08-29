@@ -22,26 +22,19 @@
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": ""
+        "username": "kpk3",
+        "url": "https://www.linkedin.com/in/keenan-kinimaka-b1527b124"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "software engineering",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "algorithms",
       "keywords": [
       ]
     }
