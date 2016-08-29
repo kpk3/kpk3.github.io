@@ -2,23 +2,22 @@
 layout: project
 type: project
 image: images/as.png
-title: Vacay
-permalink: projects/vacay
-date: 2015
+title: Kai Archiver
+permalink: projects/archiver
+date: Summer 2016
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - C#
+  - XML
+  - Visual Studio
+summary: A means of quickly searching through a companies outlook folders.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/as.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+Kai archiver is a project I developed during the summer of 2016. The purpose of Kai Archiver is to search through a companies native outlook folders according to user specifications.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+Kai archiver is implemented using C# and XML. 
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+In this project I gained experience using VSTO and programming a Microsoft Add-In. 
  
 Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
