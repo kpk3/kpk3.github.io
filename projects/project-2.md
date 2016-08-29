@@ -1,7 +1,6 @@
 ---
 layout: project
 type: project
-published: true
 image: images/as.png
 title: Kai Archiver
 permalink: projects/archiver
