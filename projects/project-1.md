@@ -4,7 +4,7 @@ type: project
 image: images/word.png
 title: Company List Search
 permalink: projects/micromouse
-date: Summer 2015
+date: 2015
 labels:
   - C#
   - XML
