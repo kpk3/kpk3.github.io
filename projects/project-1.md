@@ -12,7 +12,7 @@ labels:
 summary: I developed a word add-in that accessed an external excel file and returned the company info for previous clients.
 ---
 
-
+The purpose of this add in 
 
 
 
