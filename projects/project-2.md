@@ -4,7 +4,7 @@ type: project
 image: images/as.png
 title: Kai Archiver
 permalink: projects/archiver
-date: Summer 2016
+date: 2016
 labels:
   - C#
   - XML
