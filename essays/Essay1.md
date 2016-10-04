@@ -1,8 +1,8 @@
 ---
 layout: essay
 type: essay
-title: Bringing It All Together
-date: 2015-08-28
+title: Test
+date: 2016-10-03
 labels:
   - Software Engineering
   - Learning
