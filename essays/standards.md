@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Reflection on Coding Standards
+title: Those who can do, can teach.
 date: 2016-12-12
 labels:
   - ESLint
