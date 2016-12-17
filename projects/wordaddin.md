@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/kai-image.jpg
 title: Kai Word Add-in
-permalink: projects/archiver
+permalink: projects/wordaddin
 date: 2016
 labels:
   - C#
