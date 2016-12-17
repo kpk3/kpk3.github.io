@@ -18,6 +18,6 @@ Kai archiver is a project I developed during the summer of 2016. The purpose of 
 
 Kai archiver is implemented using C# and XML. 
 
-In this project I gained experience using VSTO and programming a Microsoft Add-In. 
+This was the first assignment I was given at Kai Hawaii. When I received it, I had the biggest panic attack of my life because I was being expected to produce a working application for one of the best structural engineering firms in the state in less than three months . . . by myself.
 
 Link: <a href="https://bitbucket.org/kpk3/archive-search/overview">Repository</a>
