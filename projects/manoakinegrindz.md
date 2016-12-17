@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/kai-image.jpg
 title: Manoa Kine Grindz
-permalink: projects/archiver
+permalink: projects/manoakinegrindz
 date: 2016
 labels:
   - C#
