@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: UI Frameworks
+title: But like it's so ugly...
 date: 2016-10-06
 labels:
   - Semantic UI
