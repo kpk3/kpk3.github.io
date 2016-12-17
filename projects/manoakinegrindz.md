@@ -16,14 +16,15 @@ summary: A means of quickly searching for a place to eat based on critera such a
 
 <img class="ui medium right floated rounded image" src="https://raw.githubusercontent.com/manoa-kine-grindz/manoa-kine-grindz/master/app/public/images/logo.png">
 
-Manoa 
+Manoa Kine Grindz is a web-app that allows UH students to be able to quickly find what food is currently being served on campus. 
 
-Kai Word Add-in is a project I developed during the summer of 2016. The purpose of Kai Word Add-in is to provide a means of searching through a preexisting excel spreadsheet of all of Kai's previous clients and of quickly getting all of the necessary information for any new proposals(contracts).
+For the most part this project was decent. The main difficulty was merely that our team wasn't really a team. What little we were able to accomplish was purely due to individual contributions produced individually. We never officially met outside of class and we communicated amongst ourselves almost as little.  
 
+This is a screen shot of the calender portion of the app that would have allowed the user to know what products would be available at a given vendor on any given day of the month.
 <img class="ui image" src="https://raw.githubusercontent.com/manoa-kine-grindz/manoa-kine-grindz.github.io/master/images/calendar.jpg">
 
-This was the second assignment I was given at Kai Hawaii. At this point I was already well versed in C# and had already produced another add-in, albeit for Outlook. However, Outlook is actually a much more difficult product to work around because in Outlook you're dealing with actual emails, which have the communication/multiple user dimension. Thus I was quickly able to produce a working version in only three weeks.
+Due to our lack of communication, no specific roles were ever enforced. People did what they could. My contributions were meager. I produced a few of the mock up pages, a bit of the homepage, and a bit of the interface. Other than that it was mostly my teammate, Michael. My other teammate, Chad, as far as I can tell did little to nothing. 
 
-In this instance the difficulty/disappointment came when I learned that the program, at least with the time I was allotted, couldn't improve much past what I had initially produced. This is because of the fact that the company keeps a list of all previous clients on an excel spreadsheet kept on their personal server. There was no other way of retrieving this data without making it infinitely more difficult for the secretaries to re-input all three thousand of the previous client info into a new form that Word could use effectively. Therefore, the product is merely a simple search algorithm based on user input. It has no real mind of its own because the data it draws from is too simple. There's no way to provide a "smart search" capability without creating a massive startup time, which Word doesn't allow anyway, otherwise it'll simply disable your add-in.
+In terms of overall functionality, our project is half formed and no where near to the point where it could be launched. 
 
 Link: <a href="https://github.com/manoa-kine-grindz/manoa-kine-grindz">Repository</a>
