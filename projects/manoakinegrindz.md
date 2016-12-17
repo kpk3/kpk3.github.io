@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/kai-image.jpg
+image: images/mkg.png
 title: Manoa Kine Grindz
 permalink: projects/manoakinegrindz
 date: 2016
@@ -9,10 +9,10 @@ labels:
   - C#
   - XML
   - Visual Studio
-summary: A means of quickly searching through a companies outlook folders.
+summary: A means of quickly searching for a place to eat based on critera such as ingredients, dishes, or location.
 ---
 
-<img class="ui medium right floated rounded image" src="http://www.kaihawaii.com/images/logo.jpg">
+<img class="ui medium right floated rounded image" src="https://raw.githubusercontent.com/manoa-kine-grindz/manoa-kine-grindz/master/app/public/images/logo.png">
 
 Kai Word Add-in is a project I developed during the summer of 2016. The purpose of Kai Word Add-in is to provide a means of searching through a preexisting excel spreadsheet of all of Kai's previous clients and of quickly getting all of the necessary information for any new proposals(contracts).
 
