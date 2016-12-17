@@ -6,9 +6,11 @@ title: Manoa Kine Grindz
 permalink: projects/manoakinegrindz
 date: 2016
 labels:
-  - C#
-  - XML
-  - Visual Studio
+  - Javascript
+  - CSS
+  - Meteor
+  - Galaxy
+  - IntelliJ
 summary: A means of quickly searching for a place to eat based on critera such as ingredients, dishes, or location.
 ---
 
@@ -18,7 +20,7 @@ Manoa
 
 Kai Word Add-in is a project I developed during the summer of 2016. The purpose of Kai Word Add-in is to provide a means of searching through a preexisting excel spreadsheet of all of Kai's previous clients and of quickly getting all of the necessary information for any new proposals(contracts).
 
-<img class="ui medium image" src="https://raw.githubusercontent.com/manoa-kine-grindz/manoa-kine-grindz.github.io/master/images/calendar.jpg">
+<img class="ui image" src="https://raw.githubusercontent.com/manoa-kine-grindz/manoa-kine-grindz.github.io/master/images/calendar.jpg">
 
 This was the second assignment I was given at Kai Hawaii. At this point I was already well versed in C# and had already produced another add-in, albeit for Outlook. However, Outlook is actually a much more difficult product to work around because in Outlook you're dealing with actual emails, which have the communication/multiple user dimension. Thus I was quickly able to produce a working version in only three weeks.
 
