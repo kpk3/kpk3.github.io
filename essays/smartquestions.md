@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Smart questions
+title: yo i cant write this essay can u like do it for me?
 date: 2016-12-12
 labels:
   - StackOverflow
