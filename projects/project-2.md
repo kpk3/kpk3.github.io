@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/as.png
+image: images/kai-image.jpg
 title: Kai Archiver
 permalink: projects/archiver
 date: 2016
