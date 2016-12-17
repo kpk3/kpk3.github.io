@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Reflection on Meteor
+title: The dinausars died because of Meteor
 date: 2016-10-20
 labels:
   - Meteor
