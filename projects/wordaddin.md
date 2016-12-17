@@ -9,7 +9,7 @@ labels:
   - C#
   - XML
   - Visual Studio
-summary: A means of quickly searching through a companies outlook folders.
+summary: A means of quickly returning client information for new proposals.
 ---
 
 <img class="ui medium right floated rounded image" src="http://www.kaihawaii.com/images/logo.jpg">
