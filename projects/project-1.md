@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/as.png
-title: Kai Archiver
+title: Kai Word Add-in
 permalink: projects/archiver
 date: 2016
 labels:
